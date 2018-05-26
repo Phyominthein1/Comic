@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Phyo Min Thein
                 </div>
 
                 <div class="links">
